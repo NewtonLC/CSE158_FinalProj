@@ -19,6 +19,8 @@ Contrary to my expectations, the ARX and autoregression models performed nearly 
 since I chose feature vectors based on what I could observe in time trends, they were likely accounted for by the autoregression,
 which already predicts based on time trends.
 
+Full summary of my process in [this report](https://docs.google.com/document/d/10OreI9RvtY8r2jb4s9IqDXYmn5OArBUrQMNM5QpYbKE/edit?tab=t.0#heading=h.35nkun2).
+
 ### Tools Used
 - Python(Pandas, Matplotlib, Scikit-learn)
 - Data Visualization(Seaborn)
